@@ -6,3 +6,20 @@ Dans ce repo vous allez trouver les solutions des exercices suivants:
 - `gestion_de_stock`: l'exercice 2.
 - `gestion_de_projet`: l'exercice 3.
 - `gestion_de_etat_civil`: le travail a faire 
+
+
+## Screenshots
+
+###  Exercice 2: Gestion de stock
+
+![Gestion de Stock](./assets/gestion_de_stock.png)
+
+
+###  Exercice 3: Gestion de projet
+
+![Gestion de Projet](./assets/gestion_de_projet.png.png)
+
+
+###  Travail a faire: Gestion de etat civil
+
+![Gestion de Etat Civil](./assets/gestion_de_etat_civil.png.png)
